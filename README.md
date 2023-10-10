@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*URVbNQirYASEkRkZPRSv4A.gif)
 <h1 align="center">Hi 👋, I'm Nikolina</h1>
 <h3 align="center">A devoted entry-level QA Tester</h3>
-<img align="right" alt="Testing" width="400" src="https://www.qamadness.com/wp-content/themes/qamadness/dist/images/gif-animation/qaengineer-animation-rev.gif">
+<img align="right" alt="Testing" width="250" src="https://www.qamadness.com/wp-content/themes/qamadness/dist/images/gif-animation/qaengineer-animation-rev.gif">
 
 
 

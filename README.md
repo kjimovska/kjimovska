@@ -4,10 +4,17 @@
 <img align="right" alt="Testing" width="250" src="https://www.qamadness.com/wp-content/themes/qamadness/dist/images/gif-animation/qaengineer-animation-rev.gif">
 
 
+### About Me
 
-- 🌱 I’m currently learning **Automation Testing with JavaScript**
+Hi there! I'm passionate about Automation Testing and I'm just starting my journey. 
+I'm actively seeking opportunities to collaborate on real projects where I can apply my so-far-learned skills, gain practical experience, and continue learning.
 
-- 📫 Feel free to reach me at -> **kjimovska@gmail.com**
+### Goals
+
+- 📚 Learn new automation testing tools and frameworks
+- 🤝 Collaborate with experienced professionals
+- 💡 Contribute to meaningful projects
+- 🚀 Grow as an Automation Tester
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
